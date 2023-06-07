@@ -1,5 +1,8 @@
 # calculator
 
+![image](https://github.com/beandango/calculator/assets/106944445/8c664bcc-9a32-470e-bc90-3784646aa296)
+
+
 ## Project setup
 ```
 npm install
