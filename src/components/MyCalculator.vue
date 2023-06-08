@@ -34,9 +34,6 @@
 </template>
 
 <script>
-/* eslint-disable */
-import { sign } from 'crypto';
-
 export default {
   data() {
     return {
