@@ -1,7 +1,6 @@
 # calculator
 
-![image](https://github.com/beandango/calculator/assets/106944445/8c664bcc-9a32-470e-bc90-3784646aa296)
-
+![image](https://github.com/beandango/Calculator/assets/106944445/394ac9be-d9c8-467e-bf18-4beee56986dd)
 
 ## Project setup
 ```
